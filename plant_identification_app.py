@@ -7,7 +7,6 @@
       "gpuType": "T4",
       "authorship_tag": "ABX9TyNYwcuwA3Q604RYxsygj92w",
       st.title("Plant Identification App")
-      st.write("welcome to the Plant Identification App")
     },
     "kernelspec": {
       "name": "python3",
